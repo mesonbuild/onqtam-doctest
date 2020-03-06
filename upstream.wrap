@@ -1,0 +1,5 @@
+[wrap-file]
+directory = doctest-2.3.7
+source_url = https://github.com/onqtam/doctest/archive/2.3.7.zip
+source_filename = doctest-2.3.7.tar.gz
+source_hash = db9fd3ad5aaffdde1fa4528d117991d03954a994c77ad3d3458d37fb031dc6fa
